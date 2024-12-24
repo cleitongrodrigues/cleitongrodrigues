@@ -19,7 +19,7 @@
 
 
 <div> 
-  <a href="https://www.linkedin.com/in/cleiton-rodrigues-176b7123a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/cleitongrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <img align="right" alt="coding-gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" height="230px" style="box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); border-radius: 8px;">
 
