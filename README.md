@@ -41,12 +41,6 @@ var cleiton = new Engineer
 
 ---
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleitongrodrigues&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitongrodrigues&layout=compact&langs_count=6&theme=github_dark_dimmed&hide_border=true)
-
----
 
 ### Contato
 
