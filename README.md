@@ -1,66 +1,54 @@
-### 👋 Olá! eu sou o Cleiton 😊 | Hi there! I'm Cleiton 👋
+# Cleiton G. Rodrigues
 
-<div align="center">
-  <a href="https://github.com/cleitongrodrigues">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleitongrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitongrodrigues&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
+**Software Engineer · .NET & SQL Server**  
+Sistemas bancários · Alta disponibilidade · Performance
 
 ---
 
-### 💼 Sobre mim | About Me
+### Stack principal
 
-Sou **Engenheiro de Software** com experiência no **desenvolvimento de sistemas bancários**, atuando com **Delphi** e **SQL Server** em soluções robustas e de alta disponibilidade.  
-Tenho foco em **análise, performance, segurança e qualidade de código**, atuando do backend à entrega em produção.  
-
-Apaixonado por tecnologia e aprendizado contínuo 💻✨, estou expandindo meus conhecimentos em **Java**, **React** e **Angular**, fortalecendo minha atuação como **desenvolvedor full stack**.
-
-💬 Sempre em busca de novos desafios e oportunidades para evoluir técnica e profissionalmente.  
-🚀 Aberto a colaborações em projetos que envolvam inovação, sistemas financeiros e boas práticas de engenharia de software.
-
----
-
-### 🧰 Tecnologias do meu dia a dia | Daily Tech Stack
-
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Delphi" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" />
-  <img align="center" alt="SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 🧠 Atualmente estudando | Currently Learning
-- 🔹 **Java** — orientação a objetos, APIs REST e Spring Boot  
-- 🔹 **React & Angular** — criação de interfaces modernas e responsivas  
-- 🔹 **Boas práticas** — clean code, versionamento com Git e arquitetura de software  
+### Como eu trabalho
+
+```csharp
+var cleiton = new Engineer
+{
+    Architecture = "Clean Architecture + CQRS",
+    Database     = "SQL Server — queries, índices e performance",
+    Domain       = "Sistemas financeiros e bancários",
+    Focus        = new[] { "Qualidade", "Segurança", "Alta disponibilidade" }
+};
+```
 
 ---
 
-### 🌐 Onde me encontrar | Find me online
+### Projetos em destaque
 
-<div>
-  <a href="https://www.linkedin.com/in/cleitongrodrigues/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:cleitongrodrigues.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+| Projeto | Descrição | Stack | Status |
+|---------|-----------|-------|--------|
+| [Maderix](https://github.com/cleitongrodrigues/Sistema_Marcenaria) | Sistema de gestão para marcenaria — pedidos, estoque e clientes | Node.js · React · PostgreSQL | ✅ Em produção |
+| [Trecap Controle](https://github.com/cleitongrodrigues/trecap-controle) | Controle de treinamentos internos com emissão de relatórios em tempo real | .NET · SQL Server | 🔧 Desenvolvimento |
 
 ---
 
-<img align="right" alt="coding-gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" height="230px" style="box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); border-radius: 8px;">
+### GitHub Stats
 
-✨ “Aprender, evoluir e compartilhar conhecimento são os pilares que guiam minha trajetória como desenvolvedor.”  
-✨ “Learning, improving, and sharing knowledge are the pillars that guide my journey as a developer.”
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleitongrodrigues&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitongrodrigues&layout=compact&langs_count=6&theme=github_dark_dimmed&hide_border=true)
 
 ---
 
-### 🚀 Projetos em Destaque | Featured Projects  
-- [Sistema Trecap](https://github.com/cleitongrodrigues/trecap-controle): Sistema de controle de treinamentos internos com emissão de relatórios em tempo real.  
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleitongrodrigues/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cleitongrodrigues.dev@gmail.com)
